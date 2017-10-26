@@ -42,7 +42,5 @@
 
 ![Copy your NativeScript](./img/result.gif)
 
-Get the app from here: [https://github.com/enchev/ios-ng2-tns/](https://github.com/enchev/ios-ng2-tns/)
-
 # Credits
 [Extend your existing iOS app with Angular 2 and NativeScript](https://medium.com/@enchev/extend-your-existing-ios-app-with-angular-2-and-nativescript-c2225c9bf616)
